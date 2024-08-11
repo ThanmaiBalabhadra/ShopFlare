@@ -56,5 +56,3 @@ Javascript, HTML, CSS,Netlify,Bootstrap
 ### Live Code
 Live Demo -https://spectacular-dasik-70af80.netlify.app/
 
-
-### LIVE Demo-https://transcendent-zabaione-8b41ed.netlify.app/
