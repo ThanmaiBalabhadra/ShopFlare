@@ -6,7 +6,7 @@ ShopFlare is a vibrant e-commerce platform offering a wide range of trendy produ
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Tech Stack](#tech)
+- [Tech Stack](#techStack)
 - [Live Demo](#liveDemo)
 
 ## Introduction
@@ -39,8 +39,8 @@ Enjoy shopping on ShopFlare!
 
 
 ## Tech Stack
-Javascript, HTML, CSS,Netlify,Bootstrap
+- Javascript, HTML, CSS,Netlify,Bootstrap
 
-### Live Code
-Live Demo -https://transcendent-zabaione-8b41ed.netlify.app/
+### Live Demo
+- Live Demo -https://transcendent-zabaione-8b41ed.netlify.app/
 
