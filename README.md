@@ -54,5 +54,5 @@ Initialize Git in your project folder if you plan to use version control
 Javascript, HTML, CSS,Netlify,Bootstrap
 
 ### Live Code
-Live Demo -https://spectacular-dasik-70af80.netlify.app/
+Live Demo -https://transcendent-zabaione-8b41ed.netlify.app/
 
